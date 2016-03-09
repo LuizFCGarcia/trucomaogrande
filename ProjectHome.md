@@ -1,0 +1,1 @@
+Jogo de truco para desktop desenvolvido em Java com suporte à acesso remoto (internet).
